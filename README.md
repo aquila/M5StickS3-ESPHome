@@ -8,6 +8,8 @@
 
 It uses ESPHome plus a few custom components to provide a compact interface for controlling any Home Assistant device, either manually from an on-screen device menu or by voice through the native Home Assistant Assist pipeline.
 
+https://www.youtube.com/watch?v=QqVVINYZ2Ps
+
 ## What It Does
 
 Habbit Pocket gives you two main ways to interact with your smart home:
